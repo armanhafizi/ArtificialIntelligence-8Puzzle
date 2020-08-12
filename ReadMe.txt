@@ -1,0 +1,1 @@
+This code tries to solve the 8-puzzle game using the heuristic function Manhattan Distance and search algorithm IDA*. Feel free to contact me for more information.
